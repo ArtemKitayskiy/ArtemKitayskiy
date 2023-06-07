@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, I'm Artem!👋
 
-<!--
-**ArtemKitayskiy/ArtemKitayskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Python programmer and data science enthusiast 🐍📊
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Vision 👁️🖥️  
+
+- Natural Language Processing 📚💬  
+
+- And many other things!🌟😄
+
+## Contact
+
+- 📧 Email: artem.kita@gmail.com
+
+- 📱 Telegram: [@kuroles01](https://t.me/kuroles01)
